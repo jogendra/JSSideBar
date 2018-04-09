@@ -22,4 +22,4 @@ Drag and Drop **Sidebar** folder to your project. Easy!
   </table>
 
 ### License
-MIT
+JSSideBar is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
